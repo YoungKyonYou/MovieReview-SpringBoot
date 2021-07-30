@@ -24,8 +24,8 @@ org/young/movie_review/entity/MovieImage.java
  org.young.movie_review.entity.MovieImage$MovieImageBuilder
 org/young/movie_review/controller/UploadTestController.java
  org.young.movie_review.controller.UploadTestController
-org/young/movie_review/service/MovieServiceImpl.java
- org.young.movie_review.service.MovieServiceImpl
+org/young/movie_review/controller/MovieController.java
+ org.young.movie_review.controller.MovieController
 org/young/movie_review/dto/MovieImageDTO.java
  org.young.movie_review.dto.MovieImageDTO
  org.young.movie_review.dto.MovieImageDTO$MovieImageDTOBuilder
@@ -54,5 +54,5 @@ org/young/movie_review/repository/MovieRepository.java
  org.young.movie_review.repository.MovieRepository
 org/young/movie_review/controller/ReviewController.java
  org.young.movie_review.controller.ReviewController
-org/young/movie_review/controller/MovieController.java
- org.young.movie_review.controller.MovieController
+org/young/movie_review/service/MovieServiceImpl.java
+ org.young.movie_review.service.MovieServiceImpl
