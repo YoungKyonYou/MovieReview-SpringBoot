@@ -1,0 +1,8 @@
+org/young/movie_review/repository/MemberRepositoryTests.java
+ org.young.movie_review.repository.MemberRepositoryTests
+org/young/movie_review/repository/MovieRepositoryTests.java
+ org.young.movie_review.repository.MovieRepositoryTests
+org/young/movie_review/MovieReviewApplicationTests.java
+ org.young.movie_review.MovieReviewApplicationTests
+org/young/movie_review/repository/ReviewRepositoryTests.java
+ org.young.movie_review.repository.ReviewRepositoryTests
